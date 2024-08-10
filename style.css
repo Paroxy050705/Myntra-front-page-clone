@@ -1,0 +1,750 @@
+.first{
+    height: 70px;
+    width: 1300px;
+    background-color: rgb(255, 255, 255);
+    
+    display: flex;
+    justify-content: space-around;
+
+}
+.first1{
+    height:70px;
+    width:800px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.first2{
+    height: 70px;
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+}
+/* #firstfor1{
+    height: 70px;
+    width:300px;
+    background-color: black;
+    align-items: center;
+} */
+
+.firstfirst{
+    height:70px;
+    width:250px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 255, 255);
+}
+.second{
+
+    height:180px;
+    width:1300px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+  #second1{
+    height: 100px;
+    width: 600px;
+    background-color: rgb(168, 54, 12);
+    color: #000;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 900;
+    border-radius: 30px;
+    
+}
+#second2{
+    height: 100px;
+    width: 500px;
+    background-color: rgb(240, 166, 166);
+    color: black;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    border-radius: 20px;
+     
+}  
+#image{
+    height: 700px;
+    width: 1300px;
+    background-color:transparent;
+    background-image: url("festive-black-friday-atmosphere-with-colorful-decorations-shoppers_931878-2070.jpg");
+    background-size:cover;
+}
+.third{
+    height:90px;
+    width: 1300px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+
+}
+#t1{
+    height: 70px;
+    width: 400px;
+    background-color: rgb(224, 71, 10);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    color:white;
+    font-size: 20px;
+    font-weight: 900;
+    border-radius: 5%;
+    padding:20px 5px 5px 5px;
+}
+#t2{
+    height: 70px;
+    width: 400px;
+    background-color: rgb(224, 71, 10);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    color:white;
+    font-size: 20px;
+    font-weight: 900;
+    border-radius: 5%;
+    padding:20px 5px 5px 5px;
+}
+#t3{
+    height: 70px;
+    width: 400px;
+    background-color: rgb(224, 71, 10);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    color:white;
+    font-size: 20px;
+    font-weight: 900;
+    border-radius: 5%;
+    padding:20px 5px 5px 5px;
+}
+#coupouns{
+    height:200px;
+    width: 1300px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(94, 65, 11);
+    font-size: 60px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifo;
+    font-weight: 900;
+}
+.fourth{
+    height: 150px;
+    width: 1300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+}
+.f1{
+    height: 120px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: pink;
+
+}
+.f2{
+    height: 120px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: pink;
+    
+}
+#ff1{
+    height: 120px;
+    width:400px;
+    background-color: rgb(196, 53, 10);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 900;
+    color: white;
+    border-right: 4px solid white;
+    
+
+}
+#ff2{
+    height: 120px;
+    width: 200px;
+    background-color:rgb(196, 53, 10);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 900;
+    color: white;
+    
+}
+#ff3{
+    height: 120px;
+    width:400px;
+    background-color: rgb(196, 53, 10);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 900;
+    color: white;
+    border-right: 4px solid white;
+
+}
+#ff4{
+    height: 120px;
+    width: 200px;
+    background-color:rgb(196, 53, 10);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 900;
+    color: white;
+    
+}
+#shop{
+    height:200px;
+    width: 1300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    font-weight: 900;
+    color:rgb(192, 51, 51);
+    background-color: rgb(219, 148, 62);
+}
+.fifth{
+    height:300px;
+    width: 1300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+}
+.fif1{
+    height:280px;
+    width: 200px;
+    background-color:yellow;
+    
+
+}
+.fif2{
+    height:280px;
+    width: 200px;
+    background-color:yellow;
+    
+
+}
+.fif3{
+    height:280px;
+    width: 200px;
+    background-color:yellow;
+    
+
+}
+.fif4{
+    height:280px;
+    width: 200px;
+    background-color:yellow;
+    
+
+}
+.fif5{
+    height:280px;
+    width: 200px;
+    background-color:yellow;
+    
+
+}
+.fif6{
+    height:280px;
+    width: 200px;
+    background-color:yellow;
+    
+
+}
+#i1{
+    height:180px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    background-image: url("floral-printed-thread-work-fit-flare-ethnic-dress-285839.jpg");
+    background-size: cover;
+    
+    
+}
+#ii1{
+    height:100px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color:wheat;
+    font-weight: 900;
+}
+#i2{
+    height:180px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    background-image: url("mens-casual-shirt.jpg");
+    background-size: cover;
+    
+    
+}
+#ii2{
+    height:100px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color:wheat;
+    font-weight: 900;
+}
+
+#i3{
+    height:180px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    background-image: url("MAT-0014A.webp");
+    background-size: cover;
+    
+    
+}
+#ii3{
+    height:100px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    color:wheat;
+    font-weight: 900;
+}
+
+#i4{
+    height:180px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    background-image: url("51GcjncM7DL._AC_UY1100_.jpg");
+    background-size: cover;
+    
+    
+}
+#ii4{
+    height:100px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    justify-content: center;
+    align-items: center;
+    font-size: 23px;
+    color:wheat;
+    font-weight: 900;
+}
+
+#i5{
+    height:180px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    background-image: url("40_c9daa4cf-af7b-44b5-846f-ed80b124c5eb_400x.webp");
+    background-size: cover;
+    
+    
+}
+#ii5{
+    height:100px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color:wheat;
+    font-weight: 900;
+}
+
+#i6{
+    height:180px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    background-image: url("recovery-sportswear-voguebus-may-22-inline-2.webp");
+    background-size: cover;
+    
+    
+}
+#ii6{
+    height:100px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color:wheat;
+    font-weight: 900;
+}
+
+
+.sixth{
+    height:300px;
+    width: 1300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+}
+.six1{
+    height:280px;
+    width: 200px;
+    background-color:yellow;
+    
+
+}
+.six2{
+    height:280px;
+    width: 200px;
+    background-color:yellow;
+    
+
+}
+.six3{
+    height:280px;
+    width: 200px;
+    background-color:yellow;
+    
+
+}
+.six4{
+    height:280px;
+    width: 200px;
+    background-color:yellow;
+    
+
+}
+.six5{
+    height:280px;
+    width: 200px;
+    background-color:yellow;
+    
+
+}
+.six6{
+    height:280px;
+    width: 200px;
+    background-color:yellow;
+    
+
+}
+#s1{
+    height:180px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    background-image: url("61V10ONOVBL._AC_UF1000\,1000_QL80_.jpg");
+    background-size: cover;
+    
+    
+}
+#ss1{
+    height:100px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color:wheat;
+    font-weight: 900;
+}
+#s2{
+    height:180px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    background-image: url("5f3d92f9dbfcd1257ebd34256f0f1fb1.jpg");
+    background-size: cover;
+    
+    
+}
+#ss2{
+    height:100px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color:wheat;
+    font-weight: 900;
+}
+
+#s3{
+    height:180px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    background-image: url("71pGjUwrUlL._AC_UF1000\,1000_QL80_.jpg");
+    background-size: cover;
+    
+    
+}
+#ss3{
+    height:100px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color:wheat;
+    font-weight: 900;
+}
+
+#s4{
+    height:180px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    background-image: url("10-essential-jewellery-pieces.webp");
+    background-size: cover;
+    
+    
+}
+#ss4{
+    height:100px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color:wheat;
+    font-weight: 900;
+}
+
+#s5{
+    height:180px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    background-image: url("9782db37f2e698b987981337c343dd49.jpg");
+    background-size: cover;
+    
+    
+}
+#ss5{
+    height:100px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color:wheat;
+    font-weight: 900;
+}
+
+#s6{
+    height:180px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    background-image: url("Carlington_elite_analog_ladies_watch_CT_2014_rosegold.webp");
+    background-size: cover;
+    
+    
+}
+#ss6{
+    height:100px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color:wheat;
+    font-weight: 900;
+}
+
+
+
+.seven{
+    height:300px;
+    width: 1300px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+}
+.seven1{
+    height:280px;
+    width: 200px;
+    background-color:#ffffff;
+    padding-left: 30px;
+
+}
+.seven2{
+    height:280px;
+    width: 200px;
+    background-color:white;
+    padding-left: 30px;
+
+}
+.seven3{
+    height:280px;
+    width: 200px;
+    background-color:rgb(255, 255, 255);
+    padding-left: 30px;
+    
+
+}
+#e1{
+    height:180px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    background-image: url("Wing-16_BP_N_Black_02.webp");
+    background-size: cover;
+    
+    
+}
+#ee1{
+    height:100px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color:wheat;
+    font-weight: 900;
+}
+#e2{
+    height:180px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    background-image: url("travel-trolley-bag-red.jpg");
+    background-size: cover;
+    
+    
+}
+#ee2{
+    height:100px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color:wheat;
+    font-weight: 900;
+}
+
+#e3{
+    height:180px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    background-image: url("il_340x270.3888833056_l1wv.avif");
+    background-size: cover;
+    
+    
+}
+#ee3{
+    height:100px;
+    width:200px;
+    background-color: rgb(218, 69, 10);
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color:wheat;
+    font-weight: 900;
+}
+.eight{
+    height:300px;
+    width: 1300px;
+    background-color: rgba(0, 255, 255, 0.603);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 8px solid rgb(4, 51, 105);
+}
+#eight1{
+    height:250px;
+    width:400px;
+    background-color: rgba(5, 82, 82, 0.315);
+    background-image:url("maxresdefault.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+#eight2{
+    height:250px;
+    width:800px;
+    background-color: rgba(5, 97, 97, 0.315);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    font-weight: 900;
+    color: white;
+
+}
+.last{
+    height:500px;
+    width: 1300px;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#l1{
+    height:300px;
+    width:300px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    
+    font-size: 20px;
+    font-weight: 400;
+    background-color: white;
+}
+#l2{
+    height:300px;
+    width:300px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    
+    font-size: 20px;
+    font-weight: 400;
+    background-color: white;
+}
+#l3{
+    height:300px;
+    width:300px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    
+    font-size: 20px;
+    font-weight: 400;
+    background-color: white;
+}
+#l4{
+    height:300px;
+    width:300px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    
+    font-size: 20px;
+    font-weight: 400;
+    background-color: rgb(255, 255, 255);
+}
